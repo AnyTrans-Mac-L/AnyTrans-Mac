@@ -1,7 +1,7 @@
 # AnyTrans – Complete iOS Device Manager and Data Transfer Tool for Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/52326/l/anytrans-logo.png?v=1663833343" width="150" alt="AnyTrans icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/9d/cb/229dcbdf-82b9-9ba9-8248-0fa1aafb9440/Placeholder.mill/200x200bb-75.webp" width="150" alt="AnyTrans icon"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ The <a href="#anyTrans">photo management use case</a> serves photographers and f
 The <a href="#anyTrans">iCloud recovery use case</a> provides selective backup access — recovering a deleted photo, restoring a specific message thread, or extracting a lost contact from an existing iCloud backup without wiping the current device and restoring the full backup. <a href="#anyTrans">Music collector management</a> serves users who maintain personal music libraries from physical CD collections or purchased downloads, managing those libraries on iPhone independently of streaming services.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/345563/m/anytrans-screenshot.png?v=1663833364" alt="AnyTrans screenshot"/>
+  <img src="https://img.utdstc.com/screen/a79/9a9/a799a94cee4e05ed1e162077f18d54e4375534d135a3f091fb6c5e910e3d51d8:600" alt="AnyTrans screenshot"/>
 </p>
 
 <a href="#anyTrans">Multiple device management</a> handles iPhone and iPad simultaneously from a single AnyTrans session on Mac — managing a personal phone and work phone, or iPhone and iPad, without disconnecting and reconnecting between devices. <a href="#anyTrans">Book and document transfer</a> moves ePub books, PDFs, and other reading documents to iPhone Books app and compatible readers without going through iTunes file sharing.
